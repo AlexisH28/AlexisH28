@@ -1,3 +1,5 @@
+![Banner]![Leonardo Gonzalez (1)](https://github.com/user-attachments/assets/37ba220e-ba39-41ed-a961-b79b1a7c1ab5)
+
 <h1 align="center">Hi 👋, I'm Alexis Hernández</h1>
 <h3 align="center">A passionate backend developer from Colombia.</h3>
 
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexis hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis hernández" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-hern%c3%a1ndez-28d12a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexis-hern%c3%a1ndez-28d12a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
