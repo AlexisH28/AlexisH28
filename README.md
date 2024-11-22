@@ -1,5 +1,4 @@
-![Banner]![Leonardo Gonzalez (1)](https://github.com/user-attachments/assets/37ba220e-ba39-41ed-a961-b79b1a7c1ab5)
-
+![Leonardo Gonzalez (1)](https://github.com/user-attachments/assets/37ba220e-ba39-41ed-a961-b79b1a7c1ab5)
 <h1 align="center">Hi 👋, I'm Alexis Hernández</h1>
 <h3 align="center">A passionate backend developer from Colombia.</h3>
 
