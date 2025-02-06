@@ -24,7 +24,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,html,css,bootstrap,js,mysql,postgres,java,spring,idea,react,postman,md,git,vscode,notion,figma,windows,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,html,css,bootstrap,js,mysql,postgres,java,spring,idea,react,postman,md,git,github,vscode,notion,figma,windows,linux&perline=10"  />
 </p>
 <br/>
 
