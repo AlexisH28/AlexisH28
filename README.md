@@ -8,7 +8,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` `BackEnd` `Developer` at [CAMPUSLANDS](https://campuslands.com/).
+- :school: I am a `Junior` `BackEnd` `Developer`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Java` and `SpringBoot`.
 - :nerd_face: Always `learning new things`.
