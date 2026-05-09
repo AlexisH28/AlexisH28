@@ -13,6 +13,7 @@
 - :student: I’m currently learning `Java` and `SpringBoot`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1fpm2LjjR4xymeIEz9XVuBE115CFu0S9k/view?usp=sharing).
+- :boom: You can also visit [MY PORTFOLIO](https://alexish28.github.io/Portfolio_AlexisH/).
 <br>
 
 
